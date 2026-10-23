@@ -2,6 +2,8 @@
 
 InteriorX is a portfolio-ready full-stack web application for exploring interior styles, customizing a room preview, selecting furniture, estimating a budget, and saving design projects.
 
+![image alt](https://github.com/Vikas79-gif/InteriorX-Interior-Home-Designe/blob/9f6eabe9edaf1c2713a043cfe81e56685f4619ed/Screenshot%202026-10-23%20201122.png)
+
 ## Technology stack
 - Frontend: React, Vite, JavaScript, CSS
 - Backend: Node.js, Express
